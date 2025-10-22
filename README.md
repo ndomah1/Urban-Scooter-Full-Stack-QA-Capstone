@@ -1,5 +1,6 @@
 # 🛴 Urban Scooter — Full-Stack QA Testing Capstone (Web • Mobile • Backend)
 Urban Scooter is a three-part QA capstone project demonstrating end-to-end quality assurance across web, mobile, and backend components of a scooter-rental platform.  
+
 It showcases the ability to plan, execute, and document functional, validation, and integration testing using industry-standard tools and workflows.
 
 ## 🧩 Project Scope
@@ -51,4 +52,5 @@ Focused on courier management endpoints within the backend service.
 
 ## 🏁 Result
 This project reflects end-to-end testing expertise across all major QA domains — manual web testing, mobile validation, and backend API verification.  
+
 It highlights strong analytical thinking, test design, and attention to detail, demonstrating readiness to deliver comprehensive QA coverage in a professional environment.
