@@ -1,18 +1,14 @@
 # 🛴 Urban Scooter — Full-Stack QA Testing Capstone (Web • Mobile • Backend)
-
 Urban Scooter is a three-part QA capstone project demonstrating end-to-end quality assurance across web, mobile, and backend components of a scooter-rental platform.  
 It showcases the ability to plan, execute, and document functional, validation, and integration testing using industry-standard tools and workflows.
 
 ## 🧩 Project Scope
-
 ### 1️⃣ Web Application Testing
 Tested the “About Customer” form in the “Place Order” flow — the section titled *“Who the scooter is for”*, containing customer name and phone number fields.  
 - Designed positive and negative test cases to verify field validation, input restrictions, and UI error states.  
 - Conducted cross-browser testing on Chrome (v85+) and Opera (v71+) at 1280×720 resolution.  
 - Logged results in Google Sheets and filed linked Jira bug reports for each defect.  
 - Validated compliance with the web app’s front-end and backend input constraints.
-
----
 
 ### 📱 Mobile Application Testing
 Executed tests on the Urban Scooter Android app using an Android 31 emulator in Android Studio.  
@@ -21,8 +17,6 @@ Executed tests on the Urban Scooter Android app using an Android 31 emulator in 
 - Designed test cases for highlighted mobile features, including order management and UI responsiveness.  
 - Ensured data consistency between the web client (order creation) and mobile courier app (order visibility).  
 - Recorded all test outcomes and Jira references in the “Task 2: Test Cases” tab.
-
----
 
 ### ⚙️ Backend (API) Testing
 Focused on courier management endpoints within the backend service.  
